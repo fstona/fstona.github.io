@@ -40,10 +40,10 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
+  username: fstona # jekyll-seo-tag > Owners twitter username
+author: Filipe Stona # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: Filipe Stona # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/DavidDarnes
     - https://www.facebook.com/daviddarnes
@@ -81,10 +81,10 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-lang: en-GB # Set the site language
+lang: en-US # Set the site language
 title: "Filipe Stona" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Welcome to my webpage. I am currently PhD Candidate at UFRGS." # Site description and default description, also used in jekyll-seo-tag
+logo: "/assets/logos/ufrgsLogo.jpg" # Site logo, also used in jekyll-seo-tag
+description: "PhD Candidate in Economics at UFRGS. My primary research interests are in the formulation and computation of dynamic equilibrium models." # Site description and default description, also used in jekyll-seo-tag
 url: "fstona.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/fstona"
@@ -97,14 +97,14 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/logos/logo@16px.png'
-  32: '/assets/logos/logo@32px.png'
-  96: '/assets/logos/logo@96px.png'
-  120: '/assets/logos/logo@120px.png'
-  144: '/assets/logos/logo@144px.png'
-  180: '/assets/logos/logo@180px.png'
-  512: '/assets/logos/logo@512px.png'
-  1024: '/assets/logos/logo@1024px.png'
+  16: '/assets/logos/ufrgsLogo@16px.png'
+  32: '/assets/logos/ufrgsLogo@32px.png'
+  96: '/assets/logos/ufrgsLogo@96px.png'
+  120: '/assets/logos/ufrgsLogo@96px.png'
+  144: '/assets/logos/ufrgsLogo@96px.png'
+  180: '/assets/logos/ufrgsLogo@96px.png'
+  512: '/assets/logos/ufrgsLogo@96px.png'
+  1024: '/assets/logos/ufrgsLogo@96px.png'
 
 # 9. Site navigation
 navigation_header:
@@ -126,10 +126,12 @@ navigation_footer:
   url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
+  Twitter: https://twitter.com/fstona
+  LinkedIn: https://www.linkedin.com/in/filipe-stona-6917181b
+  GitHub: https://github.com/fstona
+  email: mailto:fstona@live.com
+  link: https://www.researchgate.net/profile/Filipe_Stona2
+  codepen: https://www.researchgate.net/profile/Filipe_Stona2
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
