@@ -52,9 +52,23 @@
   
   {
     "title": "Filipe Stona",
-    "excerpt": "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.\n",
-    "content": "Personal Information\n\n\n  Full Name: Filipe Stona\n  Position: PhD candidate at Universidade Federal do Rio Grande do Sul (UFRGS) and Visiting PhD student at University of Pennsylvania (2018 - 2019).\n  E-mail: fstona[at]live.com\n  Current Research Fields: Macroeconomics, Dynamic Equilibrium Models, and Labor Markets.\n\n\nEducation:\n\n  Universidade Federal do Rio Grande do Sul (PhD in Economics, 2016 - present)\n  Universidade do Vale do Rio dos Sinos, UNISINOS (MA in Economics, 2016)\n  Escola Superior de Propaganda e Marketing, ESPM-SUL (BA in International Relations, 2012)\n\n",
+    "excerpt": "\n",
+    "content": "Personal Information\n\n\n  Full Name: Filipe Stona\n  Position: PhD candidate at Universidade Federal do Rio Grande do Sul (UFRGS) and Visiting PhD student at University of Pennsylvania (2018 - 2019).\n  E-mail: fstona [at] live [dot] com\n  Current Research Fields: Macroeconomics, Dynamic Equilibrium Models, and Labor Markets.\n\n\nEducation\n\n  Universidade Federal do Rio Grande do Sul (PhD in Economics, 2016 - present)\n  Universidade do Vale do Rio dos Sinos, UNISINOS (MA in Economics, 2016)\n  Escola Superior de Propaganda e Marketing, ESPM-SUL (BA in International Relations, 2012)\n\n",
     "url": "/"
+  },
+  
+  {
+    "title": "More...",
+    "excerpt": "\n",
+    "content": "\n\nThis page website is under construction. Visit my old website for more.\n",
+    "url": "/more/"
+  },
+  
+  {
+    "title": "Research",
+    "excerpt": "Research\n",
+    "content": "\n\nPublished and Forthcoming Papers\n\n  ‘Do U.S. factors impact the Brazilian yield curve? Evidence from a dynamic factor model’.\nJoint with João F. Caldeira. The North American Journal of Economics and Finance, v. 48, p. 76-89, 2019.\n\n\nEarlier version presented at the XVII Brazilian Meeting of Finance , Brasília, 2017. PDF.\n\nReplication codes can be shared upon request. If you are interested in them, please email me directly.\n\n\n  ‘Economic dynamics during periods of financial stress: Evidences from Brazil’\nJoint with D. Triches and I.A.C. Morais. International Review of Economics &amp; Finance, v. 55, p. 130-144, 2018.\n\n\nEarlier version presented at the XVI Brazilian Meeting of Finance, Florianópolis, 2016 PDF.\n\nReplication codes to compute MSVAR and figures.\n\n\n\nPublications in Refereed Brazilian Journals\n\n\n  \n    ‘Comércio intraindustrial brasileiro com países desenvolvidos e em desenvolvimento: análise do período 1997-2013’\nJoint with J. Amann and A. C. Gewehr. Revista de Economia (Curitiba), v.43, n.1, Janeiro-Abril 2016.\n  \n  \n    ‘Analysis of term structure of interest rates in Latin America countries from 2006 to 2014’\nJoint with J. Amann, M.D. Morais, D. Triches and I.A.C. Morais. Brazilian Review of Finance (RBFin), v. 13, n. 4, October-December 2015. PDF.\n  \n\n\n\n\nBooks\n\n  ‘Econometria Aplicada no EViews’\nJoint with Igor A. C. Morais e Gustavo Schuck. Porto Alegre: Fundação de Economia a Estatística (FEE), 2016. [Publisher Website] [Book] [Data]\n\n\n\n\nDraft Research Papers\n\n  A TANK with Fiscal Policy Uncertainty.\n\n\n\n\nUnpublished Papers\n\n  Assimetria de informações no sistema  financeiro em modelos dinâmicos de equilíbrio geral (2017)  [Portuguese Manuscript][Replication Code]\n  A comparison of programming languages for bayesian inference (2017) [Manuscript][Replication Code]\n  ‘Indicadores Compostos da Instabilidade Financeira no Brasil’ with Gustavo J. Schuck and Igor A. C. Morais\nPresented at the 17º Encontro Brasileiro de Finanças, 2017. [PDF]\n  ‘Uma proposta de sistematização da produção teórica e empírica em Economia Regional a partir dos Encontros Nacionais de Economia, promovidos pela ANPEC, no período 2004-2014’  with A. Massuquetti, A. Andreis, B. Pedron and J. C. Amann.\nPresented at the 43º Encontro Nacional de Economia, 2015 [Portuguese Manuscript]\n\n",
+    "url": "/research/"
   },
   
   {

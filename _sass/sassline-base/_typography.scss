@@ -66,7 +66,7 @@ a {
     font-weight: map-get($headingtype, bold);
   }
 
-  h1 {
+  h1, h6 {
     color: $white;
     font-family: unquote(map-get($headingtype, font-family));
     font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';

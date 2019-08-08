@@ -9,6 +9,7 @@
 # 8. Site favicons & manifest icons
 # 9. Site navigation
 
+# run locally: bundle exec jekyll serve
 # 1. Files excluded from Jekyll builds
 exclude:
 - README.md
@@ -83,8 +84,9 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "Filipe Stona" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/ufrgsLogo.jpg" # Site logo, also used in jekyll-seo-tag
-description: "PhD Candidate in Economics at UFRGS. My primary research interests are in the formulation and computation of dynamic equilibrium models." # Site description and default description, also used in jekyll-seo-tag
+logo: "/assets/logos/ufrgsLogo2.jpg" # Site logo, also used in jekyll-seo-tag
+description: "PhD Candidate in Economics at UFRGS" # Site description and default description, also used in jekyll-seo-tag
+subdescription: "My primary research interests are in the formulation and computation of dynamic equilibrium models."
 url: "fstona.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/fstona"
@@ -97,29 +99,35 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/logos/ufrgsLogo@16px.png'
-  32: '/assets/logos/ufrgsLogo@32px.png'
-  96: '/assets/logos/ufrgsLogo@96px.png'
-  120: '/assets/logos/ufrgsLogo@96px.png'
-  144: '/assets/logos/ufrgsLogo@96px.png'
-  180: '/assets/logos/ufrgsLogo@96px.png'
-  512: '/assets/logos/ufrgsLogo@96px.png'
-  1024: '/assets/logos/ufrgsLogo@96px.png'
+  16: '/assets/logos/ufrgsLogo@16px.jpg'
+  32: '/assets/logos/ufrgsLogo@32px.jpg'
+  96: '/assets/logos/ufrgsLogo@96px.jpg'
+  120: '/assets/logos/ufrgsLogo@96px.jpg'
+  144: '/assets/logos/ufrgsLogo@96px.jpg'
+  180: '/assets/logos/ufrgsLogo@96px.jpg'
+  512: '/assets/logos/ufrgsLogo@96px.jpg'
+  1024: '/assets/logos/ufrgsLogo@96px.jpg'
 
 # 9. Site navigation
 navigation_header:
 - title: Home
   url: /
 - title: Research
-  url: /elements/
-- title: Teaching
-  url: /blog/
-- title: Teaching
-  url: /categories/
-- title: Search
-  url: /search/
+  url: /research/
+#- title: Research
+#  url: /elements/
+#- title: Teaching
+#  url: /categories/
+#- title: Cronology
+#  url: /blog/
+#- title: Search
+#  url: /search/
+- title: More
+  url: /more/
 - title: CV
-  url: https://github.com/daviddarnes/alembic
+  url: /files/Stona_CV_Aug2019.pdf
+- title: 🇧🇷 #U+1F1F7
+  url: /files/FS_CVpt.pdf
 
 navigation_footer:
 - title: Alembic Template
