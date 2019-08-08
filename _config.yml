@@ -122,7 +122,7 @@ navigation_header:
   url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-- title: Created by David Darnes
+- title: Alembic Template
   url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired

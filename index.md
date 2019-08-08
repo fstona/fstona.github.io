@@ -1,7 +1,7 @@
 ---
 title: Filipe Stona
 feature_text: |
-  ## Filipe Stona
+  # Filipe Stona
   PhD Candidate
 feature_image: "https://media.timeout.com/images/105208962/1372/772/image.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
