@@ -131,7 +131,6 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   GitHub: https://github.com/fstona
   email: mailto:fstona@live.com
   link: https://www.researchgate.net/profile/Filipe_Stona2
-  codepen: https://www.researchgate.net/profile/Filipe_Stona2
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
