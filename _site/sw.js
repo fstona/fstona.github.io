@@ -1,8 +1,8 @@
-const version = '20190808213807';
+const version = '20190810000104';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/general/2016/08/29/example-post-three/","/history/2016/08/28/example-post-two/","/general/2016/08/27/example-post-one/","/categories/","/elements/","/index-alambic/","/blog/","/","/manifest.json","/more/","/offline/","/research/","/assets/search.json","/search/","/assets/styles.css","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/feed.xml","/assets/logos/ufrgsLogo2.jpg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/general/2016/08/29/example-post-three/","/history/2016/08/28/example-post-two/","/general/2016/08/27/example-post-one/","/CVpage/","/categories/","/elements/","/external/","/index-alambic/","/blog/","/","/manifest.json","/more/","/offline/","/research/","/assets/search.json","/search/","/assets/styles.css","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/blog/page2/","/feed.xml","/assets/logos/ufrgsLogo2.jpg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

@@ -1,10 +1,8 @@
 ---
 title: Filipe Stona
 feature_text: |
-  # Filipe Stona
-  ###### PhD Candidate
 feature_image: "/assets/book.jpg"
-excerpt: 
+excerpt:
 ---
 
 ## Personal Information
