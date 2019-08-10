@@ -37,6 +37,9 @@
 <loc>http://localhost:4000/more/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/ongoing/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/research/</loc>
 </url>
 <url>
