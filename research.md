@@ -3,7 +3,7 @@ title: Research
 feature_text: |
 feature_image: /assets/IMG_7694.JPG
 excerpt: "Research"
-aside: true
+aside: false
 ---
 
 ___

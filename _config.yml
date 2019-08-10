@@ -46,10 +46,9 @@ author: Filipe Stona # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: Filipe Stona # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
+    - https://twitter.com/fstona
+    - https://www.linkedin.com/in/filipe-stona-6917181b
+    - https://github.com/fstona
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -126,8 +125,6 @@ navigation_header:
   url: /external/
 - title: More
   url: /more/
-- title: CV
-  url: /CVpage/
 
 navigation_footer:
 - title: Alembic Template
