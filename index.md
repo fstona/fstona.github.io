@@ -6,7 +6,7 @@ excerpt: "Filipe Stona"
 aside: true
 ---
 
-{% include figure.html image="/assets/pic1.JPG" caption="My picture" position="right" width="150" height="400" %}{% include button.html text=" Short CV 🇺🇸 " link="/files/Stona_CV_Aug2019.pdf" size="150px" %}{% include button.html text=" CV 🇧🇷 " link="/files/FS_CVpt.pdf" size="150px"%}{% include button.html text="Lattes 🇧🇷" link="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4477812J9" size="150px"%}
+{% include figure.html image="/assets/pic1.JPG" caption="My picture" position="right" width="150" height="400" %}{% include button.html text=" CV 🇺🇸 " link="/files/Stona_CV_Aug2019.pdf" size="150px" %}{% include button.html text=" CV 🇧🇷 " link="/files/FS_CVpt.pdf" size="150px"%}{% include button.html text="Lattes 🇧🇷" link="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4477812J9" size="150px"%}
 
 
 ## Personal Information
