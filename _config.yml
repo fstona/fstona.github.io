@@ -66,10 +66,10 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "Nessa seção vou me dedicar a escrever sobre assuntos diversos do meu interesse, principalmente relacionados a economia e computação." # The post list page content
     feature_text: |
-      Welcome to the blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+      Bem-Vindo
+    feature_image: "https://thenextscoop.com/wp-content/uploads/2017/10/write-blog-dilemma-1280x720.jpg"
 
 # 6. Jekyll collections settings
 defaults:
@@ -117,14 +117,14 @@ navigation_header:
 #  url: /elements/
 #- title: Teaching
 #  url: /categories/
-#- title: Cronology
-#  url: /blog/
 #- title: Search
 #  url: /search/
-- title: External Resources
-  url: /external/
 - title: Presentations
   url: /presentation/
+- title: External Resources
+  url: /external/
+- title: Blog
+  url: /blog/
 - title: More
   url: /more/
 
