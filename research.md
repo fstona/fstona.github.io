@@ -12,14 +12,14 @@ ___
 - ['Do U.S. factors impact the Brazilian yield curve? Evidence from a dynamic factor model'](https://www.sciencedirect.com/science/article/pii/S1062940818300664).
 Joint with João F. Caldeira. The North American Journal of Economics and Finance, v. 48, p. 76-89, 2019. [PDF](/files/2019 - NAJEF - Stona and Caldeira.pdf "PDF")
 
-Earlier version presented at the XVII Brazilian Meeting of Finance , Brasília, 2017.
+_Earlier version presented at the XVII Brazilian Meeting of Finance , Brasília, 2017._
 
 Replication codes can be shared upon request. If you are interested in them, please email me directly.
 
 - ['Economic dynamics during periods of financial stress: Evidences from Brazil'](https://www.sciencedirect.com/science/article/pii/S1059056016302234)
 Joint with D. Triches and I.A.C. Morais. International Review of Economics & Finance, v. 55, p. 130-144, 2018. [PDF](/files/2018 - IREF - Stona, Morais and Triches.pdf "PDF")
 
-Earlier version presented at the XVI Brazilian Meeting of Finance, Florianópolis, 2016.
+_Earlier version presented at the XVI Brazilian Meeting of Finance, Florianópolis, 2016._
 
 [Replication codes](/files/Stona_IREF2018.rar "Replication codes") to compute MSVAR and figures.
 
@@ -45,15 +45,10 @@ ___
 
 ___
 #### Unpublished Papers
-- Assimetria de informações no sistema  financeiro em modelos dinâmicos de equilíbrio geral (2017)  [Portuguese Manuscript][Replication Code]
+- Assimetria de informações no sistema  financeiro em modelos dinâmicos de equilíbrio geral (2017)  [Portuguese Manuscript](https://drive.google.com/file/d/0Bz4cbo4T3m_YbkFwWnJtT0Z0Qk0/view "Portuguese Manuscript") and [Replication Code](https://drive.google.com/file/d/0Bz4cbo4T3m_YSHBQeGZ4cHpFNkE/view "Replication Code").
 
-- A comparison of programming languages for bayesian inference (2017)
+- A comparison of programming languages for bayesian inference (2017). [Manuscript](/files/bayesian_comp.pdf "Manuscript") and [Replication Code](https://github.com/fstona/bayesian-econ3) available.
 
-[Manuscript](/files/bayesian_comp.pdf "Manuscript") and [Replication Code](https://github.com/fstona/bayesian-econ3) available.
+- '[Indicadores Compostos da Instabilidade Financeira no Brasil](https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=SBF2017&paper_id=29)' with Gustavo J. Schuck and Igor A. C. Morais. _Presented at the 17º Encontro Brasileiro de Finanças, 2017._
 
-- 'Indicadores Compostos da Instabilidade Financeira no Brasil' with Gustavo J. Schuck and Igor A. C. Morais
-
-Presented at the 17º Encontro Brasileiro de Finanças, 2017. [PDF](https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=SBF2017&paper_id=29)
-
-- 'Uma proposta de sistematização da produção teórica e empírica em Economia Regional a partir dos Encontros Nacionais de Economia, promovidos pela ANPEC, no período 2004-2014'  with A. Massuquetti, A. Andreis, B. Pedron and J. C. Amann.
-Presented at the 43º Encontro Nacional de Economia, 2015 [Portuguese Manuscript](https://www.anpec.org.br/encontro/2015/submissao/files_I/i10-4e7e0595c628fc22def09544db505818.pdf)
+- '[Uma proposta de sistematização da produção teórica e empírica em Economia Regional a partir dos Encontros Nacionais de Economia, promovidos pela ANPEC, no período 2004-2014](https://www.anpec.org.br/encontro/2015/submissao/files_I/i10-4e7e0595c628fc22def09544db505818.pdf)'  with A. Massuquetti, A. Andreis, B. Pedron and J. C. Amann. _Presented at the 43º Encontro Nacional de Economia, 2015._
