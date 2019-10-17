@@ -12,9 +12,9 @@ aside: false
 
 Presented at the International Workshop on General Equilibrium (UCB/Brasília)
 
-#### Conjuntura Econômica 🇧🇷
-
 ___
+
+#### Conjuntura Econômica 🇧🇷
 
 - [Cenário Econômico Brasileiro (Setembro/2019)](/files/conjunturaEcon.pdf)
 
