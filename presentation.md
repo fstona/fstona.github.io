@@ -6,6 +6,12 @@ excerpt: ""
 aside: false
 ---
 
+#### Papers
+
+- [A TANK of Fiscal Policy Uncertainty (Oct/2019)](/files/TANKF_WGEUCB_oct2019.pdf)
+
+Presented at the International Workshop on General Equilibrium (UCB/Brasília)
+
 #### Conjuntura Econômica 🇧🇷
 
 ___
