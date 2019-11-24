@@ -6,8 +6,6 @@ excerpt: ""
 aside: false
 ---
 
-{% include button.html text="Presentations" link="/presentation/" %}
-
 ___
 
 
