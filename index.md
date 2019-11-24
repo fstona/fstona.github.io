@@ -19,3 +19,6 @@ aside: true
 - Universidade Federal do Rio Grande do Sul (PhD in Economics, 2016 - present)
 - Universidade do Vale do Rio dos Sinos, UNISINOS (MA in Economics, 2016)
 - Escola Superior de Propaganda e Marketing, ESPM-SUL (BA in International Relations, 2012)
+
+## Professional Experience
+- Economist at [Sicredi](https://www.sicredi.com.br/index.html) (2019 - present)

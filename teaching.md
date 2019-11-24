@@ -6,6 +6,8 @@ excerpt: ""
 aside: false
 ---
 
+{% include button.html text="Presentations" link="/presentation/" %}
+
 ___
 
 
@@ -17,6 +19,8 @@ Conteúdo: Slides sobre método de perturbação para solução de modelos de Eq
 
 - [Método de Perturbação](/files/perturbation-nov2019.pdf)
 - [Modelo Neoclássico (mod file)](/files/neoclassicalModel.mod)
+
+<p> <br> </p>
 
 ##### Teoria Macroeconômica I (2016)
 <p> <br> </p>
@@ -42,4 +46,4 @@ Slides sobre Teoria da Produção para a disciplina de Teoria Microeconômica 1 
 ___
 
 <div style="text-align:justify">
-<p style="line-height:16px"><font size="2"> Observação: Essas são notas de aula sujeitas a erros de conteúdo e de digitação, que são inteiramente de minha responsabilidade. Caso você identifique algum erro ou queira complementar o conteúdo, envie um e-mail para fstona@live.com.  </font></p></div>
+<p style="line-height:16px"><font size="2"> Observação: Essas são notas de aula sujeitas a erros, que são inteiramente de minha responsabilidade. Caso você identifique algum erro ou queira complementar o conteúdo, envie um e-mail para fstona@live.com.  </font></p></div>

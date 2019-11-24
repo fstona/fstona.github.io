@@ -84,7 +84,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "Filipe Stona" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/ufrgsLogo2.jpg" # Site logo, also used in jekyll-seo-tag
-description: "PhD Candidate in Economics at UFRGS" # Site description and default description, also used in jekyll-seo-tag
+description: "PhD Candidate in Economics at UFRGS | Economist at Sicredi" # Site description and default description, also used in jekyll-seo-tag
 subdescription: "My primary research interests are in the formulation and computation of dynamic equilibrium models."
 url: "fstona.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -115,16 +115,16 @@ navigation_header:
   url: /research/
 #- title: Research
 #  url: /elements/
-#- title: Teaching
-#  url: /categories/
+- title: Teaching
+  url: /teaching/
 #- title: Search
 #  url: /search/
 - title: External Resources
   url: /external/
 - title: Blog
   url: /blog/
-- title: More
-  url: /more/
+#- title: More
+#  url: /more/
 
 navigation_footer:
 - title: Alembic Template
