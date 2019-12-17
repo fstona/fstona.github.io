@@ -80,6 +80,14 @@
 <lastmod>2019-08-09T22:49:18+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/files/TANKF_WGEUCB_oct2019.pdf</loc>
+<lastmod>2019-10-17T16:20:24+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/TANK_SBE_dez2019.pdf</loc>
+<lastmod>2019-12-10T00:54:37+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/files/bayesian_comp.pdf</loc>
 <lastmod>2019-08-09T23:37:56+01:00</lastmod>
 </url>
@@ -90,5 +98,9 @@
 <url>
 <loc>http://localhost:4000/files/notas_de_aula%20-FS-%202017-07.pdf</loc>
 <lastmod>2017-07-07T18:14:56+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/perturbation-nov2019.pdf</loc>
+<lastmod>2019-11-24T15:07:51+00:00</lastmod>
 </url>
 </urlset>
