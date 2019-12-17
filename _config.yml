@@ -86,7 +86,7 @@ title: "Filipe Stona" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/ufrgsLogo2.jpg" # Site logo, also used in jekyll-seo-tag
 description: "PhD Candidate in Economics at UFRGS | Economist at Sicredi" # Site description and default description, also used in jekyll-seo-tag
 subdescription: "My primary research interests are in the formulation and computation of dynamic equilibrium models."
-url: "fstona.github.io" # Site url, also used in jekyll-seo-tag
+url: "fstona.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/fstona"
 email: "mailto:fstona@live.com"
