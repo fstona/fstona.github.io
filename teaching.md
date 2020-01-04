@@ -1,5 +1,5 @@
 ---
-title: Notas de Aula/ Notes
+title: Notas de Aula 🇧🇷
 feature_text: |
 feature_image: "/assets/book.jpg"
 excerpt: ""
@@ -9,7 +9,7 @@ aside: false
 ___
 
 
-##### Perturbação - Teoria Macroeconômica II (2019)
+##### Perturbação - Teoria Macroecômica II (2019)
 <p> <br> </p>
 
 <div style="text-align:justify">
