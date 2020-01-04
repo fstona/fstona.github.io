@@ -7,8 +7,6 @@ aside: false
 ---
 
 {% include button.html text="Ongoing Research" link="/ongoing/" %}
-{% include button.html text="Presentations" link="/presentation/" %}
-
 ___
 ### Published and Forthcoming Papers
 - ['Do U.S. factors impact the Brazilian yield curve? Evidence from a dynamic factor model'](https://www.sciencedirect.com/science/article/pii/S1062940818300664).
