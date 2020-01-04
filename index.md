@@ -12,12 +12,11 @@ aside: true
 ## Personal Information
 
 - Full Name: Filipe Stona
-- Position: PhD candidate at Universidade Federal do Rio Grande do Sul (UFRGS) and Economist at Sicredi.
+- Position: PhD candidate at Universidade Federal do Rio Grande do Sul ([UFRGS](https://www.ufrgs.br/ppge/)) and Visiting PhD student at [University of Pennsylvania](https://economics.sas.upenn.edu) (2018 - 2019).
 - Current Research Fields: Macroeconomics, Dynamic Equilibrium Models, and Labor Markets.
 
 ## Education
-- [Universidade Federal do Rio Grande do Sul]((https://www.ufrgs.br/ppge/)) (PhD in Economics, 2016 - present)
-- [University of Pennsylvania](https://economics.sas.upenn.edu) (visiting PhD student, Department of Economics, 2018 - 2019)
+- Universidade Federal do Rio Grande do Sul (PhD in Economics, 2016 - present)
 - Universidade do Vale do Rio dos Sinos, UNISINOS (MA in Economics, 2016)
 - Escola Superior de Propaganda e Marketing, ESPM-SUL (BA in International Relations, 2012)
 
