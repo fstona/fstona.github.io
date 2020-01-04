@@ -6,7 +6,8 @@ excerpt: "Research"
 aside: false
 ---
 
-{% include button.html text="Ongoing Research" link="/ongoing/" %} {% include button.html text="Presentations" link="/presentation/" %}
+{% include button.html text="Ongoing Research" link="/ongoing/" %}
+{% include button.html text="Presentations" link="/presentation/" %}
 
 ___
 ### Published and Forthcoming Papers
