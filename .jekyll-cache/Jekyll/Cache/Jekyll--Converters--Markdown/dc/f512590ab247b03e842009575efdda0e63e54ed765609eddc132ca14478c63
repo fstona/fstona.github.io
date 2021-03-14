@@ -1,0 +1,23 @@
+I"8<figure class="figure  figure--right">
+  <img class="image" src="/assets/pic1.JPG" alt="My picture" width="150" height="400" />
+  <figcaption class="caption">My picture</figcaption>
+</figure>
+<p><a class="button" href="/files/Stona_CV_Aug2019.pdf" style="width: 150px; text-align: center"> CV 🇺🇸 </a>
+<a class="button" href="/files/FS_CVpt.pdf" style="width: 150px; text-align: center"> CV 🇧🇷 </a>
+<a class="button" href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4477812J9" style="width: 150px; text-align: center">Lattes 🇧🇷</a></p>
+
+<h2 id="personal-information">Personal Information</h2>
+
+<ul>
+  <li>Full Name: Filipe Stona</li>
+  <li>Position: PhD candidate at Universidade Federal do Rio Grande do Sul (<a href="https://www.ufrgs.br/ppge/">UFRGS</a>) and Visiting PhD student at <a href="https://economics.sas.upenn.edu">University of Pennsylvania</a> (2018 - 2019).</li>
+  <li>Current Research Fields: Macroeconomics, Dynamic Equilibrium Models, and Labor Markets.</li>
+</ul>
+
+<h2 id="education">Education</h2>
+<ul>
+  <li>Universidade Federal do Rio Grande do Sul (PhD in Economics, 2016 - present)</li>
+  <li>Universidade do Vale do Rio dos Sinos, UNISINOS (MA in Economics, 2016)</li>
+  <li>Escola Superior de Propaganda e Marketing, ESPM-SUL (BA in International Relations, 2012)</li>
+</ul>
+:ET

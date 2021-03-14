@@ -1,0 +1,8 @@
+I"w<hr />
+
+<p>You can find my presentations and class notes (both in Portuguese) here:</p>
+
+<p>{% include button.html text=”Presentations” link=”/presentation/” %} {% include button.html text=”Class Notes” link=”/teaching/” %}</p>
+
+<p>This website is under construction. <a href="https://sites.google.com/view/fstona/home">Visit my old website for more</a>.</p>
+:ET

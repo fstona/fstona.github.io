@@ -1,0 +1,46 @@
+I"�<p>Here I gather some links for subjects of my interest.</p>
+
+<hr />
+
+<h3 id="macroeconomics">Macroeconomics</h3>
+
+<ul>
+  <li><a href="https://sites.google.com/site/ambropo/home" target="_blank">Ambrogio Cesa-Bianchi</a>: Lecture Notes, Matlab Toolbox and Dynare codes.</li>
+  <li><a href="https://www.sas.upenn.edu/~jesusfv/index.html" target="_blank">Jesús Fernández-Villaverde</a>: Lecture notes in Macroeconomics and Methods ind Macroeconomics, Matlab routines, and Dynare codes for the solution and estimation of many of his papers.</li>
+  <li><a href="https://www2.bc.edu/matteo-iacoviello/" target="_blank">Matteo Iacoviello</a>: Replication Codes and Reading Lists.</li>
+  <li><a href="http://web.econ.ku.dk/personal/henrikj/makok3_2012/" target="_blank">Henrik Jensen: ‘Macroeconomics 3’ course page</a>. Lecture slides and notes using the book by Jordi Galí: “Monetary Policy, Inflation, and the Business Cycle: An Introduction to the New Keynesian Framework” Princeton University Press, 2008.</li>
+  <li><a href="https://sites.google.com/site/pfeiferecon/dynare" target="_blank">Johannes Pfeifer</a>: example Dynare mod-files for many famous papers.</li>
+  <li><a href="https://web.sas.upenn.edu/schorf/" target="_blank">Frank Schorfheide</a>: Matlab programs and replication files of many of his papers.</li>
+  <li><a href="https://sites.google.com/site/mathiastrabandt/home/research" target="_blank">Mathias Trabandt</a>: Replication codes.</li>
+  <li>Ben Griffy’s course on “<a href="https://www.bengriffy.com/teaching/ph-d-topics-quantitative-macro-labor/" target="_blank">Quantitative Macro-Labor</a>”.</li>
+  <li>Violante’s course on “<a href="https://sites.google.com/a/nyu.edu/glviolante/teaching/quantmacro" target="_blank">Quantitative Macroeconomics</a>”.</li>
+</ul>
+
+<hr />
+
+<h3 id="programming-in-c">Programming in C++</h3>
+<ul>
+  <li><a href="http://www.aronaldg.org" target="_blank">Ronald Gallet</a>’s home page: course on Special Topics in Computational Economics and Econometrics with C++ codes.</li>
+  <li><a href="https://github.com/ealdrich" target="_blank">Eric Aldrich</a>’s GitHub page: C++ code for VFI and GPU computation;</li>
+  <li>Madhukar’s Blog: <a href="http://blog.madhukaraphatak.com/functional-programming-in-c++/" target="_blank">Functional programming in C++</a>;</li>
+  <li>Book: Joe Pitt-Francis and Jonathan Whiteley “Guide to Scientific Computing in C++”, Springer, 2017.</li>
+</ul>
+
+<hr />
+
+<h3 id="programming-in-julia">Programming in Julia</h3>
+<ul>
+  <li>Fernández-Villaverde’s <a href="https://www.sas.upenn.edu/~jesusfv/Chapter_HPC_8_Julia.pdf" target="_blank">Chapter on Julia</a> and <a href="https://www.sas.upenn.edu/~jesusfv/Guide_Parallel.pdf" target="_blank">Practical guide to Parallelization in Economics</a> (Github page <a href="https://github.com/davidzarruk/Parallel_Computing" target="_blank"> here</a> ).</li>
+  <li><a href="https://lectures.quantecon.org/jl/" target="_blank">Quantitative Economics with Julia</a> by Sargent and Stachurski.</li>
+</ul>
+
+<hr />
+
+<h3 id="sequential-monte-carlo-and-particle-filters">Sequential Monte Carlo and Particle Filters</h3>
+<ul>
+  <li>D. Creal’s excellent paper “<a href="https://www.tandfonline.com/doi/abs/10.1080/07474938.2011.607333" target="_blank">A survey of sequential Monte Carlo methods for economics and finance</a>” with Matlab <a href="https://drive.google.com/file/d/1XfiBqUFXD9E_mif3Y6a01qOX6EwXzile/view" target="_blank">replication files</a>. <a href="https://drive.google.com/file/d/1aKwelU2x1-jKDbU1sVT1sggwgosrc-Hz/view" target="_blank">pdf</a></li>
+  <li>Chapter 8 of Herbst and Schorfheide (2015) book “<a href="https://web.sas.upenn.edu/schorf/companion-web-site-bayesian-estimation-of-dsge-models/" target="_blank">Bayesian Estimation of DSGE Models</a>” with replication codes on Schorfheide’s website.</li>
+  <li><a href="http://www.stats.ox.ac.uk/~doucet/smc_resources.html" target="_blank">A.Doucet webpage</a> on Sequential Monte Carlo Methods &amp; Particle Filters Resources.</li>
+  <li>Doucet and Johansen (2011) “A Tutorial on Particle Filtering and Smoothing: 15 Years Later”, in the Oxford Handbook of Nonlinear Filtering. <a href="http://www.stats.ox.ac.uk/~doucet/doucet_johansen_tutorialPF2011.pdf" target="_blank">pdf</a></li>
+</ul>
+:ET
