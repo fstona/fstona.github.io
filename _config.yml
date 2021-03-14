@@ -66,8 +66,7 @@ collections:
     output: true
     description: "Nessa seção vou me dedicar a escrever sobre assuntos diversos do meu interesse, principalmente relacionados a economia e computação." # The post list page content
     feature_text: |
-      Bem-Vindo
-    feature_image: "https://thenextscoop.com/wp-content/uploads/2017/10/write-blog-dilemma-1280x720.jpg"
+    feature_image: "https://cms.qz.com/wp-content/uploads/2017/07/pen-on-journal.jpg?quality=75&strip=all&w=1600&h=900&crop=1"
 
 # 6. Jekyll collections settings
 defaults:
