@@ -9,6 +9,7 @@
 # 8. Site favicons & manifest icons
 # 9. Site navigation
 
+# run locally: bundle exec jekyll serve
 # 1. Files excluded from Jekyll builds
 exclude:
 - README.md
@@ -93,7 +94,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "Filipe Stona" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/ufrgsLogo2.jpg" # Site logo, also used in jekyll-seo-tag
-description: "PhD Candidate in Economics at UFRGS" # Site description and default description, also used in jekyll-seo-tag
+description: "PhD in Economics at UFRGS and Princial Economist at Sicredi Asset" # Site description and default description, also used in jekyll-seo-tag
 subdescription: "My primary research interests are in the formulation and computation of dynamic equilibrium models."
 url: "fstona.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""

@@ -1,0 +1,19 @@
+I"l<p>{% include figure.html image=”/assets/pic1.JPG” caption=”My picture” position=”right” width=”150” height=”400” %}{% include button.html text=” CV 🇺🇸 “ link=”/files/Stona_CV_Aug2019.pdf” size=”150px” %}{% include button.html text=” CV 🇧🇷 “ link=”/files/FS_CVpt.pdf” size=”150px”%}{% include button.html text=”Lattes 🇧🇷” link=”http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4477812J9” size=”150px”%}</p>
+
+<h2 id="personal-information">Personal Information</h2>
+
+<ul>
+  <li>Full Name: Filipe Stona</li>
+  <li>Position: Principal Economist at Sicredi Asset.</li>
+  <li>Responsible for producing macroeconomic forecasts and contributing to allocation strategy; exploring macro themes and building econometric models.</li>
+  <li>Research Fields: Macroeconomics, Dynamic Equilibrium Models, inflation and uncertainty.</li>
+</ul>
+
+<h2 id="education">Education</h2>
+<ul>
+  <li><a href="https://www.ufrgs.br/ppge/">Universidade Federal do Rio Grande do Sul</a> (PhD in Economics, 2016 - 2021)</li>
+  <li><a href="https://economics.sas.upenn.edu">University of Pennsylvania</a> (Visiting PhD student, 2018 - 2019)</li>
+  <li>Universidade do Vale do Rio dos Sinos, UNISINOS (MA in Economics, 2016)</li>
+  <li>Escola Superior de Propaganda e Marketing, ESPM-SUL (BA in International Relations, 2012)</li>
+</ul>
+:ET
