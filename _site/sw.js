@@ -1,8 +1,8 @@
-const version = '20230521124159';
+const version = '20230521162628';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/amazonaws/2019/09/02/AWS1/","/CVpage/","/about/","/categories/","/elements/","/external/","/blog/","/","/manifest.json","/more/","/offline/","/ongoing/","/presentation/","/research/","/assets/search.json","/search/","/assets/styles.css","/teaching/","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/styles.css.map","/assets/logos/ufrgsLogo2.jpg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/macroeconomics/2023/05/21/rstar/","/amazonaws/2019/09/02/AWS1/","/CVpage/","/about/","/categories/","/elements/","/external/","/blog/","/","/manifest.json","/more/","/offline/","/ongoing/","/presentation/","/research/","/assets/search.json","/search/","/assets/styles.css","/teaching/","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/styles.css.map","/assets/logos/ufrgsLogo2.jpg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

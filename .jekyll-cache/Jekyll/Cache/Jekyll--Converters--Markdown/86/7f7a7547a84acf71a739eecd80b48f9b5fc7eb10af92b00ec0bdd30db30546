@@ -1,4 +1,4 @@
-I"Ð<figure class="figure  figure--right">
+I"<figure class="figure  figure--right">
   <img class="image" src="/assets/pic1.JPG" alt="My picture" width="150" height="400" />
   <figcaption class="caption">My picture</figcaption>
 </figure>
@@ -10,9 +10,9 @@
 
 <ul>
   <li>Full Name: Filipe Stona</li>
-  <li>Position: Principal Economist at Bradesco Asset.</li>
+  <li>Position: Macroeconomist at <a href="https://www.bradescoasset.com.br/bram/html/pt.html">Bradesco Asset</a>.</li>
   <li>Responsible for producing macroeconomic forecasts and contributing to allocation strategy; exploring macro themes and building econometric models.</li>
-  <li>Research Fields: Macroeconomics, Dynamic Equilibrium Models, inflation and uncertainty.</li>
+  <li>Research Fields: Macroeconomics, Dynamic Equilibrium Models, inflation and monetary policy.</li>
 </ul>
 
 <h2 id="education">Education</h2>
