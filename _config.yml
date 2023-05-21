@@ -94,7 +94,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "Filipe Stona" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/ufrgsLogo2.jpg" # Site logo, also used in jekyll-seo-tag
-description: "PhD in Economics at UFRGS and Princial Economist at Sicredi Asset" # Site description and default description, also used in jekyll-seo-tag
+description: "PhD in Economics at UFRGS and Economist at Bradesco Asset" # Site description and default description, also used in jekyll-seo-tag
 subdescription: "My primary research interests are in the formulation and computation of dynamic equilibrium models."
 url: "fstona.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
