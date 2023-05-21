@@ -1,10 +1,16 @@
-I"l<p>{% include figure.html image=”/assets/pic1.JPG” caption=”My picture” position=”right” width=”150” height=”400” %}{% include button.html text=” CV 🇺🇸 “ link=”/files/Stona_CV_Aug2019.pdf” size=”150px” %}{% include button.html text=” CV 🇧🇷 “ link=”/files/FS_CVpt.pdf” size=”150px”%}{% include button.html text=”Lattes 🇧🇷” link=”http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4477812J9” size=”150px”%}</p>
+I"�<figure class="figure  figure--right">
+  <img class="image" src="/assets/pic1.JPG" alt="My picture" width="150" height="400" />
+  <figcaption class="caption">My picture</figcaption>
+</figure>
+<p><a class="button" href="/files/Stona_CV_Aug2019.pdf" style="width: 150px; text-align: center"> CV 🇺🇸 </a>
+<a class="button" href="/files/Filipe Stona - CV - Maio2023.pdf" style="width: 150px; text-align: center"> CV 🇧🇷 </a>
+<a class="button" href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4477812J9" style="width: 150px; text-align: center">Lattes 🇧🇷</a></p>
 
 <h2 id="personal-information">Personal Information</h2>
 
 <ul>
   <li>Full Name: Filipe Stona</li>
-  <li>Position: Principal Economist at Sicredi Asset.</li>
+  <li>Position: Principal Economist at Bradesco Asset.</li>
   <li>Responsible for producing macroeconomic forecasts and contributing to allocation strategy; exploring macro themes and building econometric models.</li>
   <li>Research Fields: Macroeconomics, Dynamic Equilibrium Models, inflation and uncertainty.</li>
 </ul>
