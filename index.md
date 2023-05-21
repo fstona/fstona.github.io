@@ -12,9 +12,9 @@ aside: true
 ## Personal Information
 
 - Full Name: Filipe Stona
-- Position: Principal Economist at Bradesco Asset.
+- Position: Macroeconomist at [Bradesco Asset](https://www.bradescoasset.com.br/bram/html/pt.html).
 - Responsible for producing macroeconomic forecasts and contributing to allocation strategy; exploring macro themes and building econometric models.
-- Research Fields: Macroeconomics, Dynamic Equilibrium Models, inflation and uncertainty.
+- Research Fields: Macroeconomics, Dynamic Equilibrium Models, inflation and monetary policy.
 
 ## Education
 - [Universidade Federal do Rio Grande do Sul](https://www.ufrgs.br/ppge/) (PhD in Economics, 2016 - 2021)
